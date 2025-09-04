@@ -2,6 +2,7 @@ body {
   background-color: rgb(76, 153, 107);
     font-family: Times;
     text-align: center;
+    
 }
 
 h1 {
@@ -12,4 +13,13 @@ img{
     border-style: solid;
 border-color: white;
 border-width: 5px;
+}
+form{
+    max-width: 400px;     
+    margin: 20px auto; 
+    background-color: rgb(209, 209, 209);
+    padding: 10px;
+    border-radius: 25px;
+    border: 2px solid black;
+
 }
