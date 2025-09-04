@@ -1,0 +1,15 @@
+body {
+  background-color: rgb(76, 153, 107);
+    font-family: Times;
+    text-align: center;
+}
+
+h1 {
+  color: white;
+}
+
+img{
+    border-style: solid;
+border-color: white;
+border-width: 5px;
+}
