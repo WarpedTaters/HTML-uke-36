@@ -1,13 +1,16 @@
 body {
   background-color: rgb(76, 153, 107);
-    font-family: Times;
-    text-align: center;
-    
+    font-family: Times;    text-align: center; 
+
+}
+ul li {
+   list-style-position: inside;
 }
 
 h1 {
   color: white;
 }
+
 
 img{
     border-style: solid;
